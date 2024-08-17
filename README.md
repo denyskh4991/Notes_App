@@ -40,13 +40,13 @@ This note-taking app is a simple, intuitive web application designed to let user
 
 - JavaScript Functionality:
 
-The core logic is handled by JavaScript, which includes:
-
-Event listeners for creating and deleting notes.
-
-Functions for saving and retrieving notes from localStorage.
-
-Handling focus placement to ensure a smooth editing experience.
+   The core logic is handled by JavaScript, which includes:
+   
+   Event listeners for creating and deleting notes.
+   
+   Functions for saving and retrieving notes from localStorage.
+   
+   Handling focus placement to ensure a smooth editing experience.
 
 - Error Handling
 
