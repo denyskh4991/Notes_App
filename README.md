@@ -50,7 +50,7 @@ This note-taking app is a simple, intuitive web application designed to let user
 
 - Error Handling
 
-The app manages errors by ensuring that invalid operations, like creating empty notes or leaving unnecessary line breaks, are handled gracefully, maintaining a clean and organized interface.
+   The app manages errors by ensuring that invalid operations, like creating empty notes or leaving unnecessary line breaks, are handled gracefully, maintaining a clean and organized interface.
 
 <h2>Summary:</h2>
 This note-taking app is a practical, lightweight tool for managing notes directly in the browser. With its simple design and robust functionality, it offers a seamless user experience, making note management easy and efficient.
