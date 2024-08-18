@@ -1,4 +1,4 @@
-# Notes_App
+# Notes App
 
 This note-taking app is a responsive, user-friendly web application designed to help users create, edit, and manage their notes. Built using HTML, CSS, and JavaScript, the app allows users to quickly add and organize their notes in a clean, modern interface.
 
